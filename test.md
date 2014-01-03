@@ -1,7 +1,7 @@
 ---
 title: Test page
 ---
-This is a test post.
+This is a test page.
 
 It is written using Markdown.
 

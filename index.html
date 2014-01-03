@@ -1,11 +1,52 @@
+---
+layout: default
+title: My Blog
+---
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello</title>
+    <title>{{ page.title }}</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   </head>
   
   <body>
-    <h1>Hello world!</h1>
+    <h1>{{ page.title }}</h1>
     <p>I'm hosted with GitHub Pages.</p>
+
+    <p>Total number of posts = {{ paginator.total_posts }}</p>
+
+    {% for post in paginator.posts %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p><span class="date">{{ post.date }}</span></p>
+    <div class="content">
+      {{ post.content }}
+    </div>
+    {% endfor %}
+
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+      {% else %}
+      <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+      <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+      {% else %}
+      <span class="next">Next</span>
+      {% endif %}
+    </div>
+
+    <h2>Index of all posts</h2>
+
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date }}
+      </li>
+      {% endfor %}
+    </ul>
+
   </body>
 </html>
