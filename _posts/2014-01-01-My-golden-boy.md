@@ -1,10 +1,13 @@
 ---
-title: My golden boy
+layout: post
+title: "My golden boy"
+date: 2014-01-02 01:18:52 +0000
+categories: Gratitude
 ---
 
 This is the first in what I hope will be a daily series of blog posts and images
 of things I'm grateful for. I'm following a suggestion I saw on Facebook called
-the 365 Grateful project. (Link coming here.)
+the [365 Grateful project](http://vimeo.com/22100389).
 
 The first thing I'm grateful for, on the 1st of January 2014, with my life lying
 in ruins around me, my relationship with Avigail, the love of my life,
@@ -18,5 +21,5 @@ like I'd like to be, like the me that I'm struggling to become.
 Here he is. This is me when I was small. I don't know, maybe two or three years
 old?
 
-![My golden boy]({{ site.url }}/images/2014-01-02-01-38-31.jpg)
+![My golden boy](/images/2014-01-02-01-38-31.jpg)
 

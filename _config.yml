@@ -1,7 +1,23 @@
-safe: true
+# _config.yml
+# For Ian's blog. Mostly copied from Rasmus Andersson.
+# 2014-01-04
+
 lsi: false
-pygments: true
+pygments: false
+permalink: /:year/:month/:day/:title.html
+
+# Not sure if I need this or not. Rasmus doesn't use it.
+
 source: /Users/ian/Blog/barnes1463.github.io
 
-paginate: 10
-paginate_path: "page-:num"
+# Enable SmartyPants (curly quotes, long dashes, ellipses etc)
+
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+
+# rsms sets safe: false with this explanation: "Since GitHub pages overrides
+# this to true, we test this value to see if we are running locally." OK... I
+# wonder where he uses that?
+
+safe: false
