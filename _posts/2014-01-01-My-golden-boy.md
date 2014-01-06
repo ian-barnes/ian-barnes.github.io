@@ -2,6 +2,7 @@
 layout: post
 title: "My golden boy"
 date: 2014-01-02 01:18:52 +0000
+photo_url: /images/2014-01-02-01-38-31.jpg
 categories: Gratitude
 ---
 
