@@ -82,11 +82,7 @@ rel='stylesheet' type='text/css'-->
     
     {% unless page.no_footer %}
     <footer>
-      <p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US" class="cc"><img src="/res/cc-cc.png" class="cc">
-        <img src="/res/cc-by.png" class="cc"></a>
-        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons License</a>
-      </p>
+      {% include cc.html %}
     </footer>
     {% endunless %}
     

@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title.html
 
 # Not sure if I need this or not. Rasmus doesn't use it.
 
-source: /Users/ian/Blog/barnes1463.github.io
+# source: /Users/ian/Blog/barnes1463.github.io
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 

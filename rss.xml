@@ -1,0 +1,21 @@
+---
+layout: rss
+---
+
+{% for post in site.posts %}
+  <item>
+    <title>{{ post.title }}</title>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <link>
+      {{ site.baseurl}}{{ post.url }}
+    </link>
+    <guid isPermaLink="true">
+      {{ post.url }}
+    </guid>
+    <description>
+      <![CDATA[
+               {{ post.content | markdownify }}
+      ]]>
+    </description>
+  </item>
+{% endfor %}
