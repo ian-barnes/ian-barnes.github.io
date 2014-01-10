@@ -1,20 +1,18 @@
 ---
 layout: default
+description: Ian's Blog
 ---
 
 
 
 <div class="posts">
   <div class="content full-bleed" id="recent-posts">
-  {% for post in site.posts limit:25 %}<a
-    href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
+  {% for post in site.posts limit:25 %}
+    <a href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
-        <div class="title">
-          {{ post.title }}
-          <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-            {{ post.date | date: "%-d %B %Y" }}
-          </info>
-        </div>        
+        <div class="title">{{ post.title }}
+          <info datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d %B %Y" }}</info>
+        </div>
       {% if post.photo_url %}
         <div class="image" style="background-image:url('{{ post.photo_url }}')"></div>
       {% else %}        
@@ -23,9 +21,10 @@ layout: default
         {% else %}
         <span class="body">{{ post.excerpt | strip_html }}</span>
         {% endif %}
-      {% endif %}<!-- post.photo_url -->
+      {% endif %}
       </div>
-    </a>{% endfor %}
+    </a>
+  {% endfor %}
     <div class="breaker"></div>
     <div class="end">
       <a href="/archive/">More...</a>

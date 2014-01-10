@@ -1,12 +1,13 @@
 body {
   background:white; color:black;
-  font:11pt georgia, serif;
+  font-family: 'IM Fell English', georgia, serif;
+  font-size:11pt;
   line-height:1.4;
   font-weight: lighter;
   margin: 4em 8em;
   text-rendering: optimizelegibility;
 }
-h1,h2,h3,h4 { font-family: 'Helvetica Neue', helvetica, sans-serif; }
+h1,h2,h3,h4 { font-family: 'IM Fell English', georgia, serif; }
 a { text-decoration:none; color:inherit; }
 header, footer { display:none; }
 div.post { page-break-before: always; }
