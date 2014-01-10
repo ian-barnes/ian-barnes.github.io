@@ -6,8 +6,8 @@ title: About
 My name is Ian Barnes.
 
 
-Why?
-----
+Why this blog?
+--------------
 
 Because "better out than in". Or to express that idea a little more fully: in
 life there's a natural flow in and out of every organism. We take in, and we
@@ -55,10 +55,20 @@ Work
 ----
 
 I am a lecturer in [computing] [] at [Moray College] [MC], part of the
-[University of the Highlands and Islands] [UHI]. I teach programming and
-software-related courses, mostly at the higher education level. I am one of the
+[University of the Highlands and Islands] [UHI]. I teach mostly programming and
+software-related courses, at all levels from Further Education (Level 6 in the
+Scottish system) to honours (Level 10). I am one of the
 Programme Leaders for the [UHI BSc (Hons) Computing degree] [degree], where I
-have primary responsibility for the honours year. I am the Module Leader for
+have primary responsibility for the honours year. I am the Module Leader for the
+following modules:
+
+- Introduction to Web Science (3rd year)
+- Intelligent Systems (3rd year)
+- Theoretical Computer Science (4th year)
+- Advanced Topics in Computing (4th year)
+- Dissertation (Computing) (4th year)
+
+I am involved in research in computing education, digital health and electronic publishing/document management/digital preservation.
 
 [computing]: http://www.uhi.ac.uk/en/studying-at-uhi/computing
 [MC]: http://www.moray.uhi.ac.uk/
@@ -74,3 +84,16 @@ Social networks
 - [GitHub](https://github.com/barnes1463)
 - [Facebook](http://www.facebook.com/barnes1463)
 - [LinkedIn](http://www.linkedin.com/in/barnes1463)
+
+
+Colophon
+--------
+
+This site is hosted on [GitHub Pages] [GP]. It is written using [Markdown] [MD] and processed by [Jekyll] [J]. The layout and formatting is based on a design by [rsms] [] (Rasmus Andersson), modified and adapted by me. The font is [IM Fell English] [IMFE], from [Google Fonts] [GF].
+
+[GP]: http://pages.github.com/
+[MD]: http://daringfireball.net/projects/markdown/
+[J]: http://jekyllrb.com/
+[rsms]: http://rsms.me/
+[IMFE]: https://www.google.com/fonts/specimen/IM+Fell+English
+[GF]: http://www.google.com/fonts
