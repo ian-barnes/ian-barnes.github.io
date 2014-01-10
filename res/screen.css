@@ -487,6 +487,9 @@ footer {
   padding:0 0 1em 0;
   text-align: center;
 }
+footer p {
+  font-size: small;
+}
   footer img.cc {
     display: inline-block;
     vertical-align: -0.2em;
