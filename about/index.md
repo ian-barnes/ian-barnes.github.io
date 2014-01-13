@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
 My name is Ian Barnes.
+
+![Ian in the woods](/images/2014-01-05-15-19-03-Ian-in-the-woods.jpg)
 
 
 Why this blog?
@@ -13,23 +15,38 @@ Because "better out than in". Or to express that idea a little more fully: in
 life there's a natural flow in and out of every organism. We take in, and we
 give out. For most of my life I've taken in a lot in the way of ideas. I'm a
 constant reader, watcher, viewer, listener. But I haven't tended to produce
-much. The outward flow has been blocked. This blog is an attempt to rectify
-that.
+much. The outward flow has been blocked. For various reasons. If you read a few
+of the posts you'll probably get an idea of why. This blog is an attempt to
+rectify that.
+
 
 Bio
 ---
 
 I was born and grew up in Sydney, Australia. My parents are/were both
 mathematicians and I initially followed in their footsteps, studying pure
-mathematics and computer science and later applied mathematics at the Australian
-National University in Canberra. I had postdoctoral fellowships in Bordeaux and
-ANU, then taught mathematics at the University of Sydney and at Macquarie
-University Sydney. I changed fields to computing in the late 90's and taught at
-the ANU for almost ten years. I am also a qualified psychotherapist and
-counsellor.
+mathematics and computer science at the Australian National University in
+Canberra. My doctorate was in applied mathematics, looking at the geometry of
+self-assembly in surfactant systems, somewhere in the grey area between physical
+chemistry and soft-matter physics. I was based at the ANU but also worked in
+Paris and Lund (in the south of Sweden). I had postdoctoral fellowships in
+Bordeaux and ANU, then taught mathematics at the University of Sydney and at
+Macquarie University Sydney. I changed fields to computing in the late 90's and
+taught at the ANU for almost ten years. I am also a qualified psychotherapist
+and counsellor.
+
+I am married to [Avigail Abarbanel] [Avigail]. We moved to the Highlands of
+Scotland in early 2010. Here's a plug for Avigail's psychotherapy practice,
+[Fully Human Psychotherapy] [FH].
 
 I am interested in personal growth and healing from trauma, in science fiction,
 science, politics, the environment, music and hill walking.
+
+I am a member of the [Mankind Project] [MKP], and attend the Forres I-Group.
+
+[Avigail]: http://www.avigailabarbanel.me.uk/
+[FH]: http://www.fullyhuman.co.uk/
+[MKP]: http://uk.mkp.org/
 
 
 
@@ -37,18 +54,8 @@ Home
 ----
 
 I live in the north of Scotland, in a cottage in the country, near the village
-of Croy. This is next to the River Nairn, a bit inland, midway between Inverness
-and Nairn. A couple of miles south of Inverness Airport. (I'll do a Google Maps
-link soon.)
-
-I am married to [Avigail Abarbanel] [Avigail]. Here's a plug for her
-psychotherapy practice, [Fully Human Psychotherapy] [FH].
-
-I am a member of the [Mankind Project] [MKP], and attend the Forres I-Group.
-
-[Avigail]: http://www.avigailabarbanel.me.uk/
-[FH]: http://www.fullyhuman.co.uk/
-[MKP]: http://uk.mkp.org/
+of Croy. This is next to the River Nairn, midway between Inverness and Nairn,
+couple of miles south of Inverness Airport. (I'll do a Google Maps link soon.)
 
 
 Work
@@ -68,12 +75,14 @@ following modules:
 - Advanced Topics in Computing (4th year)
 - Dissertation (Computing) (4th year)
 
-I am involved in research in computing education, digital health and electronic publishing/document management/digital preservation.
+I am involved in research in computing education, digital health and electronic
+publishing/document management/digital preservation.
 
 [computing]: http://www.uhi.ac.uk/en/studying-at-uhi/computing
 [MC]: http://www.moray.uhi.ac.uk/
 [UHI]: http://www.uhi.ac.uk/en
 [degree]: http://www.uhi.ac.uk/en/courses/bsc-hons-computing/
+
 
 
 
@@ -97,3 +106,4 @@ This site is hosted on [GitHub Pages] [GP]. It is written using [Markdown] [MD] 
 [rsms]: http://rsms.me/
 [IMFE]: https://www.google.com/fonts/specimen/IM+Fell+English
 [GF]: http://www.google.com/fonts
+
