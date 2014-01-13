@@ -79,7 +79,7 @@ header {
       -webkit-transition: 160ms -webkit-transform ease-out;
     }
     header h1 a:hover {
-      -webkit-transform: translate3d(0,2px,0);
+      /* -webkit-transform: translate3d(0,2px,0); */
       cursor:pointer;
     }
     header h1 img { display:block; float:left; }
@@ -99,11 +99,11 @@ header {
   }
   header ul.navigation li:first-child { margin-left: 0; }
   header ul.navigation li a {
-    color: #888;
+    color: #444;
     text-decoration: none;
     font-size: 11px;
   }
-  header ul.navigation li a:hover { color: black; text-decoration: none; }
+  header ul.navigation li a:hover { color: black; text-decoration: underline; }
   header ul.navigation li a.active { font-weight:bold; color:black; }
 
 /* main */

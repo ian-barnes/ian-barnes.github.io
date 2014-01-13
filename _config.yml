@@ -14,7 +14,9 @@ permalink: /:year/:month/:day/:title.html
 
 markdown: rdiscount
 rdiscount:
-  extensions: [smart]
+  extensions:
+    - smart
+    - footnotes
 
 # rsms sets safe: false with this explanation: "Since GitHub pages overrides
 # this to true, we test this value to see if we are running locally." OK... I

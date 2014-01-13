@@ -53,7 +53,9 @@
     
     {% unless page.no_footer %}
     <footer>
+      <p>Copyright &copy; Ian Barnes, {{ site.time | date: "%Y" }}</p>
       {% include cc.html %}
+      <p>Page last rebuilt {{ site.time | date: "%-d %B %Y, %T %z" }}</p>
     </footer>
     {% endunless %}
   </body>
