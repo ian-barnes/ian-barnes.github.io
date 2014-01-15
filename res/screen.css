@@ -358,6 +358,7 @@ div.post {
   
   div.post actions, div.post info {
     color: #666;
+    font-style: italic;
   }
   
   div.post actions {

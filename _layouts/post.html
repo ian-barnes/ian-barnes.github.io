@@ -7,10 +7,10 @@ layout: default
   <div class="post single">
     <h1>{{ page.title }}</h1>
     <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-      {{ page.date | date: "%-d %B %Y" }}
+      {{ page.date | date: "%A %-d %B %Y" }}
     </info>
     <div class="body">{{ content }}</div>
     <div class="breaker"></div>
   </div>
 </div>
-{% include autoreload-in-debug.html %}
+
