@@ -32,7 +32,7 @@ well... after a long day with people, in the end she is still
 another person.
 
 So, often, at the end of the day, I find that I'm suffering from
-"introvert overload", too tired to go to sleep, needing time
+introvert overload[^1], too tired to go to sleep, needing time
 alone. And that's where the midnight silence comes in. It's so
 quiet here. Once A and the cats have gone to sleep, it's
 completely silent. No cars, no TV, no neighbours talking, no
@@ -57,3 +57,5 @@ else so that I'd have silent time on my own to think, work,
 sleep, whatever. And then when I was ready---not just ready but
 eager for interaction with other people---I'd start them all
 back up again.
+
+[^1]: Avigail coined the term *introvert overload*, referring to the state introverts get into when they don't get enough time alone. For more about this, look up Jung's theory of personality type and its modern expression in the Myers-Briggs Type Indicator.
