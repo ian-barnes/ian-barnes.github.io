@@ -23,3 +23,5 @@ rdiscount:
 # wonder where he uses that?
 
 safe: false
+
+timezone: Europe/London

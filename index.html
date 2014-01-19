@@ -7,7 +7,7 @@ description: Ian's Blog
 
 <div class="posts">
   <div class="content full-bleed" id="recent-posts">
-  {% for post in site.posts limit:25 %}
+    {% for post in site.posts %}
     <a href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
         <div class="title">{{ post.title }}
@@ -15,7 +15,7 @@ description: Ian's Blog
         </div>
       {% if post.photo_url %}
         <div class="image" style="background-image:url('{{ post.photo_url }}')"></div>
-      {% else %}        
+        {% else %}        
         {% if post.description %}
         <span class="body">{{ post.description | strip_html }}</span>
         {% else %}
@@ -26,9 +26,9 @@ description: Ian's Blog
     </a>
   {% endfor %}
     <div class="breaker"></div>
-    <div class="end">
+    <!--div class="end">
       <a href="/archive/">More...</a>
-    </div>
+    </div-->
   </div>
 </div>
 <script type="text/javascript">

@@ -489,7 +489,7 @@ footer {
   text-align: center;
 }
 footer p {
-  font-size: small;
+  font-size: 60%;
 }
   footer img.cc {
     display: inline-block;
