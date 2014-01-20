@@ -138,7 +138,7 @@ div.content.photo {
   
   div.content blockquote {
     font-family: 'IM Fell English', georgia, serif;
-    font-style:italic;
+    /* font-style:italic; */
     line-height:1.618;
     background:transparent url(quotation-mark.png) no-repeat scroll 25px 1.4em;
     padding:0.1em 1em 0.1em 60px;
