@@ -14,7 +14,6 @@ layout: rss
     </guid>
     <description>
       <![CDATA[
-               site.baseurl = {{ site.baseurl }}
                {{ post.content | markdownify }}
       ]]>
     </description>

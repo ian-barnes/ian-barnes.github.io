@@ -2,7 +2,7 @@
 title: Winter beach
 layout: post
 categories: Gratitude
-photo_url: /images/2014-02-02-16-11-59-Cloud-5.jpg
+photo_url: {{ site.baseurl }}/images/2014-02-02-16-11-59-Cloud-5.jpg
 ---
 
 I am grateful for the beach in winter.
@@ -25,23 +25,23 @@ Why don't we just do that? Can't people see that we're totally fucked the way th
 
 I kept walking. I thought this cloud looked so dramatic that I kept turning around to look at it as I walked along the edge of the water. So these shots were taken looking back along the beach, roughly south-west I guess. 
 
-![Cloud 1](/images/2014-02-02-15-51-14-Cloud-1.jpg)
+![Cloud 1]({{ site.baseurl }}/images/2014-02-02-15-51-14-Cloud-1.jpg)
 
 I think it's getting closer.
 
-![Cloud 2](/images/2014-02-02-15-54-21-Cloud-2.jpg)
+![Cloud 2]({{ site.baseurl }}/images/2014-02-02-15-54-21-Cloud-2.jpg)
 
 And closer, blocking out the sun.
 
-![Cloud 3](/images/2014-02-02-15-59-16-Cloud-3.jpg)
+![Cloud 3]({{ site.baseurl }}/images/2014-02-02-15-59-16-Cloud-3.jpg)
 
 This is looking across the Moray Firth towards the Black Isle. I think that's rain.
 
-![Cloud 4](/images/2014-02-02-15-59-24-Cloud-4.jpg)
+![Cloud 4]({{ site.baseurl }}/images/2014-02-02-15-59-24-Cloud-4.jpg)
 
 This last one was taken pointing back the other way, north-east, with what was left of the sun behind me.
 
-![Cloud 5](/images/2014-02-02-16-11-59-Cloud-5.jpg)
+![Cloud 5]({{ site.baseurl }}/images/2014-02-02-16-11-59-Cloud-5.jpg)
 
 I like the solitary gull that I caught by accident, and the way the sun lights up the clouds.
 
