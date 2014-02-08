@@ -2,7 +2,7 @@
 title: Clean sheets
 layout: post
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-01-22-22-44-31-Clean-sheets.jpg
+photo_url: /images/2014-01-22-22-44-31-Clean-sheets.jpg
 ---
 
 I am grateful for the clean cotton sheets that I'm about to slide myself between and go to sleep.

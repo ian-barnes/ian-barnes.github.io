@@ -2,7 +2,7 @@
 title: Morning light
 layout: post
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-01-24-07-59-15-Morning-light-2.jpg
+photo_url: /images/2014-01-24-07-59-15-Morning-light-2.jpg
 ---
 
 I am grateful for this glory that confronted me as I stepped out the front door this morning.

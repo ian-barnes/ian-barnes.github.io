@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My golden boy"
-photo_url: {{ site.baseurl }}/images/2014-01-02-01-38-31.jpg
+photo_url: /images/2014-01-02-01-38-31.jpg
 categories: Gratitude
 ---
 

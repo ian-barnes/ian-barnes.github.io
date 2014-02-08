@@ -2,7 +2,7 @@
 title: Winter beach
 layout: post
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-02-02-16-11-59-Cloud-5.jpg
+photo_url: /images/2014-02-02-16-11-59-Cloud-5.jpg
 ---
 
 I am grateful for the beach in winter.

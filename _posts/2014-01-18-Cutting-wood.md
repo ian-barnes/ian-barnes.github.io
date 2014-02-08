@@ -2,7 +2,7 @@
 title: Cutting wood
 layout: post
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-01-18-13-19-13-Firewood.jpg
+photo_url: /images/2014-01-18-13-19-13-Firewood.jpg
 ---
 
 

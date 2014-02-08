@@ -8,6 +8,7 @@ pygments: false
 permalink: /:year/:month/:day/:title.html
 baseurl: http://www.ianbarnes.me.uk
 timezone: Europe/London
+auto: false
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 

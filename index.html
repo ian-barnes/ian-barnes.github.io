@@ -11,7 +11,7 @@ description: Ian's Blog
     <a href="{{ site.baseurl }}{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
         <div class="title">{{ post.title }}
-          <info datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d %B %Y" }}</info>
+          <p>{{ post.date | date: "%-d %B %Y" }}</p>
         </div>
       {% if post.photo_url %}
         <div class="image" style="background-image:url('{{ site.baseurl }}{{ post.photo_url }}')"></div>

@@ -2,7 +2,7 @@
 layout: post
 title: "Fritz and Laura"
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-01-07-15-16-32.jpg
+photo_url: /images/2014-01-07-15-16-32.jpg
 ---
 
 I give thanks for our two beautiful kitties, Fritz and Laura.

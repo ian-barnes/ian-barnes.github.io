@@ -2,7 +2,7 @@
 title: Spectacles
 layout: post
 categories: Gratitude
-photo_url: {{ site.baseurl }}/images/2014-01-15-23-23-55-Varifocals.jpg
+photo_url: /images/2014-01-15-23-23-55-Varifocals.jpg
 ---
 
 I am grateful for the marvel of spectacles.
