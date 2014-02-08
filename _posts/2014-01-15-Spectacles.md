@@ -2,7 +2,7 @@
 title: Spectacles
 layout: post
 categories: Gratitude
-photo_url: /images/2014-01-15-23-23-55-Varifocals.jpg
+photo_url: {{ site.baseurl }}/images/2014-01-15-23-23-55-Varifocals.jpg
 ---
 
 I am grateful for the marvel of spectacles.
@@ -13,7 +13,7 @@ I've had reading glasses since I was twenty-one, the year I wrote my honours the
 
 And so tonight I picked up my new varifocals.
 
-![Varifocals!](/images/2014-01-15-23-23-55-Varifocals.jpg)
+![Varifocals!]({{ site.baseurl }}/images/2014-01-15-23-23-55-Varifocals.jpg)
 
 The top half lets me see at a distance, anything from about three metres and out (prescription +1.5), below that it slides smoothly into just what I need for screens and middle distance (prescription +3.0) and then down at the bottom there's a little spot with my reading prescription (+3.25). I'm amazed at all the detail out there in the world that I couldn't see.
 

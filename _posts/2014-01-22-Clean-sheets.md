@@ -2,7 +2,7 @@
 title: Clean sheets
 layout: post
 categories: Gratitude
-photo_url: /images/2014-01-22-22-44-31-Clean-sheets.jpg
+photo_url: {{ site.baseurl }}/images/2014-01-22-22-44-31-Clean-sheets.jpg
 ---
 
 I am grateful for the clean cotton sheets that I'm about to slide myself between and go to sleep.
@@ -11,7 +11,7 @@ They're not new, and they're not particularly good quality. (None of that ridicu
 
 Just simple cotton sheets, freshly washed and dried. Luxury.
 
-![Clean sheets](/images/2014-01-22-22-44-31-Clean-sheets.jpg)
+![Clean sheets]({{ site.baseurl }}/images/2014-01-22-22-44-31-Clean-sheets.jpg)
 
 
 [^1]: Doona is Australian for duvet. Or duvet is Scottish for doona, depending on where you are. And if you're in neither of those places, it's a down-filled quilt, bolster, bed covering… whatever.
