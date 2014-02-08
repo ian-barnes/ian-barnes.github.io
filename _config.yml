@@ -1,14 +1,13 @@
 # _config.yml
-# For Ian's blog. Mostly copied from Rasmus Andersson.
-# 2014-01-04
+# For Ian's blog.
+# Created  2014-01-04 Mostly copied from Rasmus Andersson.
+# Modified 2014-02-07 Add base url
 
 lsi: false
 pygments: false
 permalink: /:year/:month/:day/:title.html
-
-# Not sure if I need this or not. Rasmus doesn't use it.
-
-# source: /Users/ian/Blog/barnes1463.github.io
+baseurl: http://www.ianbarnes.me.uk
+timezone: Europe/London
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 
@@ -24,4 +23,4 @@ rdiscount:
 
 safe: false
 
-timezone: Europe/London
+
