@@ -7,13 +7,14 @@ layout: rss
     <title>{{ post.title }}</title>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <link>
-      {{ site.baseurl}}{{ post.url }}
+      {{ site.baseurl }}{{ post.url }}
     </link>
     <guid isPermaLink="true">
-      {{ post.url }}
+      {{ site.baseurl }}{{ post.url }}
     </guid>
     <description>
       <![CDATA[
+               site.baseurl = {{ site.baseurl }}
                {{ post.content | markdownify }}
       ]]>
     </description>
