@@ -2,7 +2,7 @@
 title: Cutting wood
 layout: post
 categories: Gratitude
-photo_url: /images/2014-01-18-13-19-13-Firewood.jpg
+photo_url: {{ site.baseurl }}/images/2014-01-18-13-19-13-Firewood.jpg
 ---
 
 
@@ -17,5 +17,5 @@ gathered, and turning them into a fairly neat stack of logs in
 the box where they can dry out. I fulfilled a commitment I made
 on Thursday night.
 
-![Firewood](/images/2014-01-18-13-19-13-Firewood.jpg)
+![Firewood]({{ site.baseurl }}/images/2014-01-18-13-19-13-Firewood.jpg)
 

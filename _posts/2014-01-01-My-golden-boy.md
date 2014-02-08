@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My golden boy"
-photo_url: /images/2014-01-02-01-38-31.jpg
+photo_url: {{ site.baseurl }}/images/2014-01-02-01-38-31.jpg
 categories: Gratitude
 ---
 
@@ -12,5 +12,5 @@ me everywhere. He's the one who's afraid all the time. He's the one with the ima
 
 Here he is. This is me when I was small. I don't know, maybe two or three years old?
 
-![My golden boy](/images/2014-01-02-01-38-31.jpg)
+![My golden boy]({{ site.baseurl }}/images/2014-01-02-01-38-31.jpg)
 

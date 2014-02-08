@@ -2,7 +2,7 @@
 layout: post
 title: "Fritz and Laura"
 categories: Gratitude
-photo_url: /images/2014-01-07-15-16-32.jpg
+photo_url: {{ site.baseurl }}/images/2014-01-07-15-16-32.jpg
 ---
 
 I give thanks for our two beautiful kitties, Fritz and Laura.
@@ -18,11 +18,11 @@ Fritz
 
 Fritz is getting old now. He's recently lost a lot of weight and we're worried about him. He's started to look a bit frail and perhaps fearful...
 
-![Fritz 1](/images/2014-01-07-15-16-06.jpg)
+![Fritz 1]({{ site.baseurl }}/images/2014-01-07-15-16-06.jpg)
 
 But even in old age, his gaze still has incredible intensity. And he still leaps lightly from the floor up to the kitchen bench tops, the backs of sofas or chairs, or stealthily into people's laps, landing so softly, the jump judged so perfectly. And then he makes his presence known. 
 
-![Fritz 2](/images/2014-01-07-15-16-32.jpg)
+![Fritz 2]({{ site.baseurl }}/images/2014-01-07-15-16-32.jpg)
 
 Laura
 -----
@@ -31,10 +31,10 @@ Laura on the other hand, has gained weight recently. The move to Scotland, and i
 
 And yet there's still quite a lot of the kitten in her.
 
-![Laura 1](/images/2014-01-07-15-18-10.jpg)
+![Laura 1]({{ site.baseurl }}/images/2014-01-07-15-18-10.jpg)
 
 Here she's cuddled up with a koala soft toy we brought from Australia.
 
-![Laura 2](/images/2014-01-07-18-02-36.jpg)
+![Laura 2]({{ site.baseurl }}/images/2014-01-07-18-02-36.jpg)
 
 It's hard to think that their time with us might not last much longer. It won't be the same without them around. No more cat hair covering all our clothes and clogging up the vacuum cleaner, no more wrecked carpets and furniture, no more pulled threads on our woolly jumpers. But also no more soft, warm cuddly bodies, no more friendly greetings and no more of that feeling of companionship, of sharing part of our journey with these precious creatures who bring so much joy.
