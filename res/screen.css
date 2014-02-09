@@ -28,6 +28,13 @@ pre, code, tt {
   font-weight:300;
   font-size: 12px;
 }
+
+p.date {
+    font-style: italic;
+    font-size: 100%;
+    color: #808080;
+}
+
 img { border:none; vertical-align:bottom; }
 strong { font-weight:bold; }
 hr { height:1px; border:none; background-color:#ddd; }
@@ -65,7 +72,7 @@ header {
   display: block;
   height: 100px;
   margin:0 60px 0 50px;
-  color: #ccc;
+  color: #999;
 }
   header h1 {
     display: block;
@@ -79,8 +86,10 @@ header {
       -webkit-transition: 160ms -webkit-transform ease-out;
     }
     header h1 a:hover {
-      /* -webkit-transform: translate3d(0,2px,0); */
       cursor:pointer;
+      text-decoration: none;
+      color: black;
+      /* -webkit-transform: translate3d(0,2px,0); */
     }
     header h1 img { display:block; float:left; }
 
@@ -107,14 +116,14 @@ header {
   header ul.navigation li a.active { font-weight:bold; color:black; }
 
 /* main */
-#main { margin-bottom: 3em; }
+/* #main { margin-bottom: 3em; } */
 
 /* --------------------------------------------------------------------------------------------- */
 /* main content */
 div.content {
   background:white;
   padding:70px 60px;
-  margin-bottom:60px;
+  /* margin-bottom:60px; */
 }
 div.content.full-bleed {
   padding:0;
@@ -188,7 +197,8 @@ div.content.photo {
 /* intro on first page */
 
 div.content.intro {
-  padding: 40px;
+  padding: 10px;
+  font-style: italic;
 }
 
 /* --------------------------------------------------------------------------------------------- */
@@ -196,6 +206,7 @@ div.content.intro {
 
 div.posts div.end {
   padding:40px;
+  padding-top: 10px;
   text-align:center;
 }
 
@@ -214,7 +225,7 @@ a.post-excerpt {
   }
   a.post-excerpt div.grid-mask { display:none; }
   a.post-excerpt.photo {
-    height:320px;
+    height:340px;
   }
     /*a.post-excerpt.photo div.padded-content {
       display: -webkit-box; display: -moz-box; display: box;
@@ -223,7 +234,8 @@ a.post-excerpt {
     }*/
     a.post-excerpt.photo div.title {
       padding:10px 40px;
-      font-size: 300%;
+      /*font-size: 300%;*/
+      font-size: 200%;
       font-weight: 100;
       color: white;
       /*background:rgba(255,200,0,0.1);*/
@@ -261,8 +273,8 @@ a.post-excerpt {
     a.post-excerpt {
       position:relative;
       display: block;
-      width:50%; /* 680/2 */
-      /*height:180px;*/
+      width: 50%; /* 680/2 */
+      height: 340px;
       overflow-y: hidden;
       float:left;
       border:none;
@@ -301,17 +313,19 @@ a.post-excerpt {
   }
 
   a.post-excerpt div.title {
-    font-weight: bold;
+      font-size: 200%;
+      font-weight: bold;
   }
 
-  a.post-excerpt info {
+/*
+  a.post-excerpt p {
     display:inline-block;
     padding-right:8px;
     color:#999;
     font-style:italic;
-    /*margin-bottom:3em;*/
+    margin-bottom:3em;
   }
-
+*/
 /* --------------------------------------------------------------------------------------------- */
 /* photo post */
 
@@ -356,9 +370,9 @@ div.post {
   div.post h2.title, div.post h1:first-child { font-size:42px; }*/
   /*div.post h1 { margin-top: 1.618em; }*/
   
-  div.post actions, div.post info {
+  div.post actions, div.post p {
     color: #666;
-    font-style: italic;
+    /* font-style: italic; */
   }
   
   div.post actions {
@@ -366,24 +380,22 @@ div.post {
     float:right;
   }
   
-  div.post info {
+  div.post p {
     display:inline-block;
-    /*xbackground:#DDF5EB;
-    xborder-left:2px solid rgba(0,0,0,0.2);*/
-    /* border:1px solid rgba(0,0,0,0.05); */
-    border-left:none; border-right:none;
-    padding:8px 0px 8px 60px;
-    margin-left:-60px;
-    margin-bottom:3em;
+    border: none;
+    /*padding:8px 0px 8px 60px;*/
+    /*margin-left:-60px;*/
+    /*margin-bottom:3em;*/
+    margin-bottom: 0em;
   }
-  div.post.photo info {
+  div.post.photo p {
     margin:0;
     padding:0;
     border:0;
     display:block;
   }
   
-  div.post info.after {
+  div.post p.after {
     margin-top:30px;
     margin-right:-60px;
     margin-bottom:0;
@@ -394,7 +406,7 @@ div.post {
     border-color:rgba(0,0,0,0.08);
     border-bottom:none;
   }
-  div.post info.after:hover {
+  div.post p.after:hover {
     opacity:1;
   }
 

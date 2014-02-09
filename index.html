@@ -3,7 +3,11 @@ layout: default
 description: Ian's Blog
 ---
 
-
+<div class="content intro">
+  Daily expressions of gratitude. Also various thoughts, ideas, reflections,
+  blessings... 
+</div>
+  
 
 <div class="posts">
   <div class="content full-bleed" id="recent-posts">
@@ -11,11 +15,11 @@ description: Ian's Blog
     <a href="{{ site.baseurl }}{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
         <div class="title">{{ post.title }}
-          <p>{{ post.date | date: "%-d %B %Y" }}</p>
+          <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
         </div>
       {% if post.photo_url %}
         <div class="image" style="background-image:url('{{ site.baseurl }}{{ post.photo_url }}')"></div>
-        {% else %}        
+        {% else %}
         {% if post.description %}
         <span class="body">{{ post.description | strip_html }}</span>
         {% else %}

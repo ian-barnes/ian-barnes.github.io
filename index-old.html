@@ -3,36 +3,10 @@ layout: default
 title: My Blog
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-  </head>
-  
-  <body>
-    <h1>{{ page.title }}</h1>
-    <p>I'm hosted with GitHub Pages.</p>
-
-    <p>Total number of posts = {{ paginator.total_posts }}</p>
-
-    {% for post in site.posts %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p><span class="date">{{ post.date }}</span></p>
-    <div class="content">
-      {{ post.content }}
-    </div>
-    {% endfor %}
-
-    <h2>Index of all posts</h2>
-
-    <ul>
-      {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date }}
-      </li>
-      {% endfor %}
-    </ul>
-
-  </body>
-</html>
+{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p><span class="date">{{ post.date | date: "%-d %B %Y" }}</span></p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
