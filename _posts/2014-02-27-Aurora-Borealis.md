@@ -16,12 +16,12 @@ So I detoured to Findhorn beach on the way home, and stood for half an hour,
 transfixed, until cold ears drove me back to the car.
 
 The aurora covered almost half the sky: from the Big Dipper in the east, past
-Polaris, Cassiopaea and right across to the Pleiades in the west, and from
-almost down to the horizon right up to directly overhead. When I first got
-there, the western part of it, toward the Pleiades, was reddish and the rest was
-green. After a while, the colours died down, and it was just a slightly greenish
-white. At this stage it looked like mist, lit up by city lights perhaps, except
-that I could see straight through it to bright stars behind.
+Polaris, Cassiopeia and right across to the Pleiades in the west, and from
+directly overhead almost down to the horizon. When I first got there, the
+western part of it, toward the Pleiades, was reddish and the rest was green.
+After a while, the colours died down, and it was just a slightly greenish white.
+At this stage it looked like mist, lit up by city lights perhaps, except that I
+could see straight through it to bright stars behind.
 
 And it moved. Mostly not very fast, but occasionally great bright wisps that
 reached across half the sky would disappear or come into being, or move to a new
