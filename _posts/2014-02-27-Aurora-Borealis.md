@@ -37,8 +37,9 @@ anything like as clear and bright and sharp as I've seen on television.
 But sharp or not, this was incredible. Charged particles given off from the sun,
 probably during a solar flare, take a few days to reach us and then are directed
 toward the poles by the earth's magnetic field, fly down into the atmosphere and
-light up gas particles fairly high up---about fifty miles. This aurora looked
-much lower than that.
+light up gas molecules fairly high in the sky---about fifty miles up. This
+aurora looked much lower and closer than that, as if it was between me and the
+far coast: over towards Dornoch.
 
 I am grateful to my friends for alerting me, and to the universe for giving me
 the opportunity to see this amazing sight.
