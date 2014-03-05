@@ -8,7 +8,7 @@ I heard woodpeckers tapping on trees this morning, for the first time this year.
 
 It's a wonderful noise, something I'd never heard before coming to Scotland. I
 remember the first time I heard it and realised what it was. Wow! That's a
-little bird banging it's beak against a tree, again and again, _really_ fast.
+little bird banging its beak against a tree, again and again, _really_ fast!
 
 Sometimes they come to our bird feeder, Great Spotted Woodpeckers, always after
 the peanuts, sticking their powerful beaks in through the wire mesh of the
