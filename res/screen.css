@@ -3,7 +3,12 @@
 }
 
 /* Base */
-* { margin:0; padding:0; font-family:inherit; }
+* {
+  margin:0;
+  padding:0;
+  font-family:inherit;
+}
+
 body {
   /*background:#ddd;*/
   color:#444;
@@ -22,6 +27,7 @@ div.breaker { clear:both; }
 .template { display:none; }
 
 p, ul, ol, pre, blockquote, hr, object { margin: 1em 0; }
+
 pre, code, tt {
   -webkit-font-smoothing: subpixel-antialiased;
   font-family: Courier, monospace;
@@ -144,7 +150,8 @@ div.content.photo {
   /*div.post strong { font-weight:inherit; background:#FBF4B1; }*/
   div.content li { margin-left: 2em; margin-bottom:0.3em; }
   div.content ul > li { margin-left:1.4em; }
-  
+  div.content li p {}
+
   div.content blockquote {
     font-family: 'IM Fell English', georgia, serif;
     /* font-style:italic; */
