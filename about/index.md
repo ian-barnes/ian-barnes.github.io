@@ -5,7 +5,7 @@ title: About me
 
 My name is Ian Barnes.
 
-![Ian in the woods](/images/2014-01-05-15-19-03-Ian-in-the-woods.jpg)
+![Ian in the woods with bicycle](/images/2015-10-09-16-52-33-Bicycle.jpg)
 
 
 Why this blog?
