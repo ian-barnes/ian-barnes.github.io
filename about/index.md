@@ -69,7 +69,8 @@ throughout the day, "What am I grateful for today?" I want to nurture that sort
 of awareness, a part of me that observes, that sees the bigger picture, that has
 perspective.
 
-This isn't just hippy shit (by which I mean: it is indeed hippy shit, but it's
+This isn't just me being a bit of a hippy (by which I mean: it is indeed me being
+a bit of a hippy, but it's
 also more than that), it's science. This practice is consciously aimed at
 developing the neural links between my prefrontal cortex and my limbic system:
 what's called vertical integration of the brain. I'm trying to reach out to and
@@ -97,9 +98,9 @@ Institute in Sydney in 2006 and 2007.
 I have a somewhat turbulent personal history that I don't want to go into, out
 of respect for others and their privacy.
 
-I am married to [Avigail Abarbanel] [Avigail]. We moved to the Highlands of
-Scotland in early 2010. Here's a plug for Avigail's psychotherapy practice,
-[Fully Human Psychotherapy] [FH].
+Until two years ago I was married to [Avigail Abarbanel] [Avigail]. We moved
+together from Canberra to the Highlands of Scotland in early 2010. Here's a plug
+for Avigail's psychotherapy practice, [Fully Human Psychotherapy] [FH].
 
 I am interested in personal growth and healing from trauma, in science fiction,
 science, politics, the environment, music and hill walking.
@@ -115,9 +116,8 @@ I am a member of the [Mankind Project] [MKP], and attend the Forres I-Group.
 Home
 ----
 
-I live in the north of Scotland, in a cottage in the country, near the village
-of Croy, next to the River Nairn. That's midway between Inverness and Nairn,
-couple of miles south of Inverness Airport.
+I live in the town of Elgin, in the north of Scotland, twenty minutes from Findhorn,
+one hour from Inverness, two hours from Aberdeen.
 
 
 Work
@@ -126,10 +126,9 @@ Work
 I am a lecturer in [computing][] at [Moray College][MC], part of the [University
 of the Highlands and Islands][UHI]. I teach mostly programming and
 software-related courses, at all levels from Further Education (Level 6 in the
-Scottish system) to honours (Level 10). I am one of the Programme Leaders for
-the [UHI BSc (Hons) Computing degree][degree], with primary responsibility for
-the honours year. I am involved in research in computing education, digital
-health and electronic publishing/document management/digital preservation.
+Scottish system) to honours (Level 10). I am the Programme Leader for
+the [UHI BSc (Hons) Computing degree][degree]. I am involved in research in
+computing education.
 
 [computing]: http://www.uhi.ac.uk/en/studying-at-uhi/computing
 [MC]: http://www.moray.uhi.ac.uk/
@@ -142,8 +141,6 @@ health and electronic publishing/document management/digital preservation.
 Social networks
 ---------------
 
-- [Twitter](http://twitter.com/barnes1463)
-- [GitHub](https://github.com/barnes1463)
 - [Facebook](http://www.facebook.com/barnes1463)
 - [LinkedIn](http://www.linkedin.com/in/barnes1463)
 
