@@ -2,7 +2,7 @@
 title: Back again
 layout: post
 categories: Gratitude
-photo_url: /images/2015-10-09-16-52-33-Bicycle.jpg
+photo_url: /images/2015-10-09-16-52-33-Smiling.jpg
 ---
 
 ![Ian in the woods with bicycle]({{ site.baseurl }}/images/2015-10-09-16-52-33-Bicycle.jpg)
