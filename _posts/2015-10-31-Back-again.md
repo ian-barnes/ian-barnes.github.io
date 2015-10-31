@@ -63,6 +63,7 @@ and aventurous, and the beach or forest walks when I just feel like strolling in
 much better when I get outside.
 
 Next steps:
+
  1. Get roof racks for the car so I can take my bike places.
  2. Get my work under control a bit so I can do some other activities in the evenings, like...
  3. A yoga class.
