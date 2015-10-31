@@ -63,12 +63,12 @@ and aventurous, and the beach or forest walks when I just feel like strolling in
 much better when I get outside.
 
 Next steps:
-1. Get roof racks for the car so I can take my bike places.
-2. Get my work under control a bit so I can do some other activities in the evenings, like...
-3. A yoga class.
-4. Meditation.
-5. Art, maybe the life drawing class at the Moray Art Centre.
-6. Five Rhythms Dance, since it's been recommended to me by so many people.
+ 1. Get roof racks for the car so I can take my bike places.
+ 2. Get my work under control a bit so I can do some other activities in the evenings, like...
+ 3. A yoga class.
+ 4. Meditation.
+ 5. Art, maybe the life drawing class at the Moray Art Centre.
+ 6. Five Rhythms Dance, since it's been recommended to me by so many people.
 
 That's probably plenty for anyone, but if there was more time, maybe martial arts... Aikido or Qi Gong
 or Tai Chi?
