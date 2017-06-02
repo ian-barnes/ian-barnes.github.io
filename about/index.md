@@ -5,7 +5,21 @@ title: About me
 
 My name is Ian Barnes.
 
-![Ian in the woods with bicycle](/images/2015-10-09-16-52-33-Bicycle.jpg)
+![Ian in Uruguay](/images/2017-04-10-Uruguay.jpg)
+
+What follows is mostly now a bit out of date, but maybe interesting
+historically. Most of the posts here are a sort of record of an attempt to pull
+myself out of depression as I struggled through the death of my first
+marriage. From where I sit now (in June 2017), all that seems a long time ago. I
+can identify with what I wrote, I remember those moments clearly. It was
+definitely me who wrote them. But... I'm not the same any more. Life has
+changed. I've changed. I'm happy. In my work and my relationships. I've
+reconnected with my family. I'm soon to be married again. I have plans for the
+future. I'm taking up music again, reclaiming all the parts of my life that I
+lost during a long period of darkness.
+
+So I've updated the more factual "about me" stuff below, but not deleted the
+explanations of why this blog and so on.
 
 
 Why this blog?
@@ -69,12 +83,12 @@ throughout the day, "What am I grateful for today?" I want to nurture that sort
 of awareness, a part of me that observes, that sees the bigger picture, that has
 perspective.
 
-This isn't just me being a bit of a hippy (by which I mean: it is indeed me being
-a bit of a hippy, but it's
-also more than that), it's science. This practice is consciously aimed at
-developing the neural links between my prefrontal cortex and my limbic system:
-what's called vertical integration of the brain. I'm trying to reach out to and
-care for and nurture the frightened, angry, traumatised younger parts of myself.
+This isn't just me being a bit of a hippy (by which I mean: it is indeed me
+being a bit of a hippy, but it's also more than that), it's science. This
+practice is consciously aimed at developing the neural links between my
+prefrontal cortex and my limbic system: what's called vertical integration of
+the brain. I'm trying to reach out to and care for and nurture the frightened,
+angry, traumatised younger parts of myself.
 
 
 Bio
@@ -93,41 +107,46 @@ years.
 
 As well as being a mathematician, scientist and computer scientist, I am also a
 qualified psychotherapist and counsellor, having trained at the Jansen Newman
-Institute in Sydney in 2006 and 2007.
+Institute in Sydney in 2006 and 2007. I practiced counselling part-time in
+Canberra until the end of 2009.
 
-I have a somewhat turbulent personal history that I don't want to go into, out
-of respect for others and their privacy.
-
-Until two years ago I was married to [Avigail Abarbanel] [Avigail]. We moved
-together from Canberra to the Highlands of Scotland in early 2010. Here's a plug
-for Avigail's psychotherapy practice, [Fully Human Psychotherapy] [FH].
+Together with my ex-wife I moved to Scotland in 2010 and lived there for 7
+years. During that time I taught computing at the University of the Highlands
+and Islands.
 
 I am interested in personal growth and healing from trauma, in science fiction,
-science, politics, the environment, music and hill walking.
+science, politics, film, literature, the environment, music and hill walking.
 
-I am a member of the [Mankind Project] [MKP], and attend the Forres I-Group.
+I am a member of the [Mankind Project] [MKP], and until January attended the
+Forres I-Group.
 
-[Avigail]: http://www.avigailabarbanel.me.uk/
-[FH]: http://www.fullyhuman.co.uk/
 [MKP]: http://uk.mkp.org/
 
+I am engaged to be married to Céline Claustre, a wonderful French school teacher
+who I met online and who lives in Gif-sur-Yvette, near Paris.
 
 
 Home
 ----
 
-I live in the town of Elgin, in the north of Scotland, twenty minutes from Findhorn,
-one hour from Inverness, two hours from Aberdeen.
+I live in Canberra.
 
 
 Work
 ----
 
-I am a lecturer in [computing][] at [Moray College][MC], part of the [University
-of the Highlands and Islands][UHI]. I teach mostly programming and
+I work as a software developer at [Quintessence Labs][qlabs], writing key
+management software that works with the company's unique quantum random number
+generator technology.
+
+[qlabs]: http://www.quintessencelabs.com/
+
+From August 2010 until January 2017 I was a lecturer in [computing][] at
+[Moray College][MC], part of the
+[University of the Highlands and Islands][UHI]. I taught mostly programming and
 software-related courses, at all levels from Further Education (Level 6 in the
-Scottish system) to honours (Level 10). I am the Programme Leader for
-the [UHI BSc (Hons) Computing degree][degree]. I am involved in research in
+Scottish system) to honours (Level 10). I was the Programme Leader for the
+[UHI BSc (Hons) Computing degree][degree]. I was involved in research in
 computing education.
 
 [computing]: http://www.uhi.ac.uk/en/studying-at-uhi/computing
@@ -135,7 +154,24 @@ computing education.
 [UHI]: http://www.uhi.ac.uk/en
 [degree]: http://www.uhi.ac.uk/en/courses/bsc-hons-computing/
 
+Before 2010 I was (in reverse order) a reseach analyst at the
+[Australian National Data Service][ANDS], a lecturer in [computer science][DCS]
+at the [Australian National University][ANU], a lecturer in mathematics at
+[Macquarie University][MU], a postdoctoral researcher in
+[applied mathematics][applied maths] at [ANU][], a lecturer in applied
+mathematics at the [University of Sydney][USyd], a postdoc at the [CNRS][]
+[Centre de Recherche Paul Pascal][CRPP] in Bordeaux, a PhD student in applied
+mathematics at ANU and an undergraduate student in mathematics and computer
+science at ANU.
 
+[ANDS]: http://www.ands.org.au/
+[DCS]: https://cs.anu.edu.au/
+[ANU]: http://www.anu.edu.au/
+[MU]: https://www.mq.edu.au/
+[applied maths]: https://physics.anu.edu.au/appmaths/
+[USyd]: https://sydney.edu.au/
+[CNRS]: http://www.cnrs.fr/
+[CRPP]: http://www.crpp-bordeaux.cnrs.fr/
 
 
 Social networks
