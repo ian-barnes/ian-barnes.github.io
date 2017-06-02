@@ -6,10 +6,9 @@ categories: Gratitude
 
 Tonight I saw the northern lights for the first time.
 
-I got a text from Dan at nine, and another from Avigail at a quarter past saying
-that Ashley had phoned. I was just about to leave the pub where a few of us had
-eaten: Ian and Magnus from Orkney, Euan from Shetland, George from Lewis, Fiona
-and Eric from Thurso, and me. They're all visiting for our annual faculty
+I got a text from Dan at nine. I was just about to leave the pub where a few of
+us had eaten: Ian and Magnus from Orkney, Euan from Shetland, George from Lewis,
+Fiona and Eric from Thurso, and me. They're all visiting for our annual faculty
 conference.
 
 So I detoured to Findhorn beach on the way home, and stood for half an hour,

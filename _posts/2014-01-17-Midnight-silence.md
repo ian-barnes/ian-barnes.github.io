@@ -58,4 +58,7 @@ sleep, whatever. And then when I was ready---not just ready but
 eager for interaction with other people---I'd start them all
 back up again.
 
-[^1]: Avigail coined the term *introvert overload*, referring to the state introverts get into when they don't get enough time alone. For more about this, look up Jung's theory of personality type and its modern expression in the Myers-Briggs Type Indicator.
+[^1]: A coined the term *introvert overload*, referring to the state
+introverts get into when they don't get enough time alone. For more
+about this, look up Jung's theory of personality type and its modern
+expression in the Myers-Briggs Type Indicator.
