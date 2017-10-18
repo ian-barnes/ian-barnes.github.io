@@ -181,6 +181,12 @@ Social networks
 - [LinkedIn](http://www.linkedin.com/in/barnes1463)
 
 
+Professional societies
+----------------------
+
+- [Association for Computing Machinery (ACM)](http://member.acm.org/~ian.barnes)
+
+
 Colophon
 --------
 
