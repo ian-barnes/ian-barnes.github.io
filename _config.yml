@@ -2,20 +2,21 @@
 # For Ian's blog.
 # Created  2014-01-04 Mostly copied from Rasmus Andersson.
 # Modified 2014-02-07 Add base url
+# Modified 2017-10-21 Change time zone to Australia, add name, change to Kramdown
+
+name: Ian Barnes
 
 lsi: false
-pygments: false
+highlighter: false
 permalink: /:year/:month/:day/:title.html
 baseurl: http://www.ianbarnes.me.uk
-timezone: Europe/London
+timezone: Australia/Sydney
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - smart
-    - footnotes
+markdown: kramdown
+kramdown:
+  extensions: ["smart", "footnotes"]
 
 # rsms sets safe: false with this explanation: "Since GitHub pages overrides
 # this to true, we test this value to see if we are running locally." OK... I
