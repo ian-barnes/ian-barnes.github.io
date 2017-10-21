@@ -6,7 +6,7 @@ description: Personal web site of Ian Barnes
 
 My name is Ian Barnes.
 
-![Ian in Uruguay](/images/2017-04-10-Uruguay.jpg)
+![Ian in Uruguay]({{ site.baseurl }}/images/2017-04-10-Uruguay.jpg)
 
 What follows is mostly now a bit out of date, but maybe interesting
 historically. Most of the posts here are a sort of record of an attempt to pull
