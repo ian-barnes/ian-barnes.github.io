@@ -6,7 +6,7 @@ description: Personal web site of Ian Barnes
 
 My name is Ian Barnes.
 
-![Ian Barnes at Lake Louise in the Canadian Rockies]({{ site.baseurl }}/images/2016-06-11-10-31-14-Lake-Louise.png)
+![Ian Barnes at Lake Louise in the Canadian Rockies]({{ site.baseurl }}/images/2016-06-11-10-31-14-Lake-Louise.jpg)
 
 
 Bio
