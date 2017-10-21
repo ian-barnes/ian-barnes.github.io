@@ -6,7 +6,7 @@ description: Personal web site of Ian Barnes
 
 My name is Ian Barnes.
 
-![Ian in Uruguay]({{ site.baseurl }}/images/2017-04-10-Uruguay.jpg)
+![Ian Barnes at Lake Louise in the Canadian Rockies]({{ site.baseurl }}/images/2016-06-11-10-31-14-Lake-Louise.png)
 
 What follows is mostly now a bit out of date, but maybe interesting
 historically. Most of the posts here are a sort of record of an attempt to pull
