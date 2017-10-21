@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: Home
+description: Personal web site of Ian Barnes
 ---
 
 My name is Ian Barnes.
