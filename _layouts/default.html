@@ -4,9 +4,6 @@
     <meta charset="utf-8">
       <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Ian Barnes</title>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      {% if page.title != "Archive (sidebar)" %}
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      {% endif %}
       <link href='http://fonts.googleapis.com/css?family=IM+Fell+English:400,400italic' rel='stylesheet' type='text/css' />
       <link rel="stylesheet" media="screen, projection" href="/res/screen.css" type="text/css" />
       <link rel="stylesheet" media="print" href="/res/print.css" type="text/css" />
@@ -17,7 +14,7 @@
       {% else if content %}
       <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}" />
       {% else %}
-      <meta name="description" content="Ian's blog" />
+      <meta name="description" content="Ian Barnes" />
       {% endif %}
 
     {% if page.date %}
@@ -31,12 +28,12 @@
       <h1><a href="/">Ian Barnes</a></h1>
       <ul class="navigation">
         <li>
-          <a href="/archive/" {% if page.url contains "/archive/" %}
-             class="active" {% endif %} title="Archive">Archive</a>
+          <a href="/contact/" {% if page.url contains "/contact/" %}
+             class="active" {% endif %} title="Contact">Contact</a>
         </li>
         <li>
-          <a href="/about/" {% if page.url contains "/about/" %}
-             class="active" {% endif %} title="About">About</a>
+          <a href="/cv/" {% if page.url contains "/cv/" %}
+             class="active" {% endif %} title="CV">CV</a>
         </li>
       </ul>
       
