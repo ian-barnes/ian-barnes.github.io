@@ -88,7 +88,8 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a, h1 > a:hover,
 header {
   display: block;
   height: 100px;
-  margin:0 60px 0 50px;
+  /*margin:0 60px 0 50px;*/
+  margin:0 0 0 0;
   color: #999;
 }
 header h1 {
@@ -136,7 +137,7 @@ header ul.navigation li a.active { font-weight:bold; color:black; }
 
 div.content {
     background:white;
-    padding:70px 60px;
+    /*padding:70px 60px;*/
 }
 div.content.full-bleed {
     padding:0;
