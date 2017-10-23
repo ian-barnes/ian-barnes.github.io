@@ -17,6 +17,7 @@ timezone: Australia/Sydney
 markdown: kramdown
 kramdown:
   extensions: ["smart", "footnotes"]
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # rsms sets safe: false with this explanation: "Since GitHub pages overrides
 # this to true, we test this value to see if we are running locally." OK... I

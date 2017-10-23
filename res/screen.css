@@ -29,8 +29,12 @@ div.breaker {
     display:none;
 }
 
-p, ul, ol, pre, blockquote, hr, object {
+p, ul, ol, dl, pre, hr, object {
     margin: 1em 0;
+}
+
+blockquote {
+    margin: 3em 0;
 }
 
 pre, code, tt {
@@ -150,7 +154,7 @@ div.content:not(.sub) h1:first-child {
     margin-top:0; font-size:300%;
 }
 
-div.content img, div.content iframe { display:block; max-width:100%; margin:1em 0; }
+div.content img { display:block; max-width:50%; margin:1em 0; }
 div.content iframe { border:none; }
 div.content *[align=right] { margin:0 0 1em 1em; }
 div.content *[align=left] { margin:0 1em 1em 0; }
@@ -159,12 +163,16 @@ div.content li { margin-left: 2em; margin-bottom:0.3em; }
 div.content ul > li { margin-left:1.4em; }
 div.content li p {}
 
+div.content dl {}
+div.content dl dt { margin-left: 0; margin-top: 0.3em; }
+div.content dl dd { margin-left: 2em; margin-bottom: 0.3em; margin-top: 0; }
+div.content dl dd p { margin-bottom: 0.3em; }
+
 div.content blockquote {
     font-family: 'IM Fell English', serif;
     line-height:1.618;
-    background:transparent url(quotation-mark.png) no-repeat scroll 25px 1.4em;
     padding:0.1em 1em 0.1em 60px;
-    margin:1.618em 0 1.618em -60px;
+    margin:3em 0 1.618em -60px;
     color: #666055;
     text-rendering: optimizelegibility;
 }

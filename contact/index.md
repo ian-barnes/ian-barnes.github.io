@@ -4,10 +4,15 @@ title: Contact
 description: Contact details for Ian Barnes
 ---
 
+Phone
+-----
+
+- +61 449 154 184 
+
 Email
 -----
 
-<ian.barnes@acm.org>
+- <ian.barnes@acm.org>
 
 
 Social networks

@@ -24,19 +24,27 @@
   <body{% if page.wide_layout %} class="wide"{% endif %}>
     
     <header>
-      <h1><a href="/">Ian Barnes : {{ page.title }}</a></h1>
+      {% if page.url == "/" %}
+      <h1>Ian Barnes</h1>
+      {% else %}
+      <h1>Ian Barnes / {{ page.title }}</h1>
+      {% endif %}
       <ul class="navigation">
 	<li>
 	  <a href="/" {% if page.url == "/" %}
 	     class="active" {% endif %} title="Home">Home</a>
 	</li>
 	<li>
-          <a href="/contact/" {% if page.url contains "/contact/" %}
-             class="active" {% endif %} title="Contact">Contact</a>
-        </li>
+	  <a href="/projects/" {% if page.url == "/projects/" %}
+	     class="active" {% endif %} title="Projects">Projects</a>
+	</li>
         <li>
           <a href="/cv/" {% if page.url contains "/cv/" %}
              class="active" {% endif %} title="CV">CV</a>
+        </li>
+	<li>
+          <a href="/contact/" {% if page.url contains "/contact/" %}
+             class="active" {% endif %} title="Contact">Contact</a>
         </li>
       </ul>
       
