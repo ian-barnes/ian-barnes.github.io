@@ -8,8 +8,8 @@ description: Personal web site of Ian Barnes
 Goal
 ----
 
-To find a job in the Paris area, preferably on the south-west side, in
-late 2018 or early 2019.
+To find a job in the Paris area, preferably on the south-west side, starting in
+the second half of 2018.
 
 
 Skills
@@ -101,7 +101,6 @@ science, politics, film, literature, the environment, music and hill walking.
 
 I am married to Céline Claustre, a wonderful French school teacher who lives in
 Gif-sur-Yvette, near Paris. In late 2018 I plan to move to France to be with
-her, and will be looking for employment in the Paris area, preferably on the
-south or west side.
+her, and will be looking for employment not too far from Gif.
 
 
