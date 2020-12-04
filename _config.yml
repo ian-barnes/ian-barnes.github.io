@@ -3,6 +3,7 @@
 # Created  2014-01-04 Mostly copied from Rasmus Andersson.
 # Modified 2014-02-07 Add base url
 # Modified 2017-10-21 Change time zone to Australia, add name, change to Kramdown
+# Modified 2020-12-05 Time zone to France
 
 name: Ian Barnes
 
@@ -10,7 +11,7 @@ lsi: false
 highlighter: false
 permalink: /:year/:month/:day/:title.html
 baseurl: http://www.ianbarnes.me.uk
-timezone: Australia/Sydney
+timezone: Europe/Paris
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 
@@ -24,5 +25,3 @@ kramdown:
 # wonder where he uses that?
 
 safe: false
-
-

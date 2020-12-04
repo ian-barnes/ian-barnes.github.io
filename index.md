@@ -5,13 +5,6 @@ description: Personal web site of Ian Barnes
 ---
 
 
-Goal
-----
-
-To find a job in the Paris area, preferably on the south-west side, starting in
-the second half of 2018.
-
-
 Skills
 ------
 
@@ -24,11 +17,15 @@ Skills
 Work
 ----
 
-I work as a software developer at [Quintessence Labs][qlabs] in Canberra,
-writing key management software that works with the company's unique quantum
-random number generator technology. I am particularly involved with our handling
-of public key infrastructure. Recently I have also been involved in
-troubleshooting customer support issues.
+I work as a software developer at [Cryptosense][cryptosense] in Paris.
+
+[cryptosense]: https://cryptosense.com/
+
+From January 2017 to August 2018 I worked as a software developer at
+[Quintessence Labs][qlabs] in Canberra, writing key management software that
+works with the company's unique quantum random number generator technology. I
+was particularly involved with our handling of public key infrastructure.
+Recently I have also been involved in troubleshooting customer support issues.
 
 [qlabs]: http://www.quintessencelabs.com/
 
@@ -65,25 +62,19 @@ science at ANU.
 [CRPP]: http://www.crpp-bordeaux.cnrs.fr/
 
 
-Professional societies
-----------------------
-
-- [Association for Computing Machinery (ACM)](http://member.acm.org/~ian.barnes)
-
-
 Bio
 ---
 
-I was born and grew up in Sydney, Australia. My parents were both mathematicians
-and I followed in their footsteps, studying pure mathematics and computer
-science at the Australian National University in Canberra. My doctorate was in
-applied mathematics, looking at the geometry of self-assembly in surfactant
-systems, somewhere in the grey area between physical chemistry and soft-matter
-physics. I was based at the ANU but also worked in Paris and Lund (in the south
-of Sweden). I had postdoctoral fellowships in Bordeaux and ANU, and taught
+I was born and grew up in Sydney, Australia. My parents were both
+mathematicians and I followed in their footsteps, studying pure mathematics and
+computer science at the Australian National University in Canberra. My
+doctorate was in applied mathematics, looking at the geometry of self-assembly
+in surfactant systems, somewhere in the grey area between physical chemistry
+and soft-matter physics. I was based at the ANU but also worked in Paris and
+Lund. I had postdoctoral fellowships in Bordeaux and ANU, and taught
 mathematics at the University of Sydney and at Macquarie University, Sydney. In
-the late 90's I changed fields to computing and taught at the ANU for almost ten
-years.
+the late 90's I changed fields to computing and taught at the ANU for almost
+ten years.
 
 As well as being a mathematician, scientist and computer scientist, I am also a
 qualified psychotherapist and counsellor, having trained at the Jansen Newman
@@ -97,10 +88,4 @@ and Islands.
 I am interested in personal growth and healing from trauma, in science fiction,
 science, politics, film, literature, the environment, music and hill walking.
 
-![Ian Barnes at Lake Louise in the Canadian Rockies]({{ site.baseurl }}/images/2016-06-11-10-31-14-Lake-Louise.jpg) 
-
-I am married to Céline Claustre, a wonderful French school teacher who lives in
-Gif-sur-Yvette, near Paris. In late 2018 I plan to move to France to be with
-her, and will be looking for employment not too far from Gif.
-
-
+![At Lake Louise in the Canadian Rockies, June 2016]({{ site.baseurl }}/images/2016-06-11-10-31-14-Lake-Louise.jpg)

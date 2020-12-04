@@ -6,14 +6,16 @@ description: Projects
 
 *Details coming soon*
 
+
 In progress
 -----------
 
-- PKI for QLabs
+- Cryptopals in OCaml
 
 Completed
 ---------
 
+- PKI for QLabs
 - Computing honours year at UHI
 - Initial data exploration for Clear Returns
 - The Digital Scholar's Workbench for APSR
@@ -23,5 +25,4 @@ Completed
 - Shape from shading
 - Visualisation of periodic surfaces
 
-![The surface cosX + cosY + cosZ = 0, which approximates the Schwarz P-surface]({{ site.baseurl }}/images/Schwarz-P-Surface.png) 
-
+![The surface cosX + cosY + cosZ = 0, which approximates the Schwarz P-surface]({{ site.baseurl }}/assets/images/Schwarz-P-Surface.png)
