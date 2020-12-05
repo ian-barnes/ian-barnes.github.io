@@ -44,7 +44,6 @@ August 2010 - January 2017
 : Macquarie University, Sydney
 : Lecturer in mathematics
 
-
 1992 -- 1994
 : The Australian National University
 : Australian Research Council Postdoctoral Research Fellow in applied mathematics
@@ -56,7 +55,6 @@ August 2010 - January 2017
 1990
 : Centre de Recherche Paul Pascal, CNRS, Bordeaux, France
 : Postdoctoral Researcher
-
 
 Qualifications
 --------------
@@ -77,13 +75,11 @@ Qualifications
 : The Australian National University
 : BSc (Hons)
 
-
 Languages
 ---------
 
 - English: Native speaker
 - French: Fluent
-
 
 Computing
 ---------

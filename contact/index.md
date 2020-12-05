@@ -14,7 +14,6 @@ Email
 
 - <ianbarnes1963@gmail.com>
 
-
 Social networks
 ---------------
 
