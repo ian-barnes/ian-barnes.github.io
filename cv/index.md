@@ -89,5 +89,8 @@ Computing
 ---------
 
 - Operating systems: Linux, Mac OS-X, Windows
-- Software: VSCode, Slack, Git, GitLab, Docker, Virtual Box, JIRA, Confluence, Microsoft Office, Emacs
-- Languages: OCaml, PHP, Python, Bash, Java, HTML/CSS, SQL
+- Software: VSCode, Slack, Git, GitLab, Docker, Virtual Box, JIRA, Confluence,
+  Microsoft Office, Emacs, Flask, SQLAlchemy, JUnit, OUnit, Alcotest, PyTest,
+  JCA/JCE, OpenSSL, AWS KMS, Azure Key Vault, Google Cloud KMS, Bouncy Castle,
+  jq, Dune, Gradle, OPAM
+- Languages: OCaml, PHP, Python, Bash, Java, HTML/CSS, SQL, JSON
