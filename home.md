@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+description: Personal web site of Ian Barnes
 ---
 
 Bio

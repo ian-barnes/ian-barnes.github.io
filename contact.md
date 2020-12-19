@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 description: Contact details for Ian Barnes
+permalink: /contact/
 ---
 
 Phone

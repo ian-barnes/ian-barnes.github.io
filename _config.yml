@@ -1,17 +1,75 @@
-# _config.yml
-# For Ian's blog.
-# Created  2014-01-04 Mostly copied from Rasmus Andersson.
-# Modified 2014-02-07 Add base url
-# Modified 2017-10-21 Change time zone to Australia, add name, change to Kramdown
-# Modified 2020-12-05 Time zone to France
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
+title: Ian Barnes
 name: Ian Barnes
+author: Ian Barnes
+email: ianbarnes1963@gmail.com
 
-lsi: false
-highlighter: false
-permalink: /:year/:month/:day/:title.html
-baseurl: http://www.ianbarnes.me.uk
+# author:
+#   name: Ian Barnes
+#   email: ianbarnes1963@gmail.com
+
+description: Software developer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ianbarnes.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
+# github_username: barnes1463
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+minima:
+  social_links:
+    facebook: barnes1463
+    linkedin: barnes1463
+    github: barnes1463
+
+  show_excerpts: true
+
 timezone: Europe/Paris
+
+github_username: barnes1463
+facebook_username: barnes1463
+linkedin_username: barnes1463
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 
@@ -20,8 +78,11 @@ kramdown:
   extensions: ["smart", "footnotes"]
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 
-# rsms sets safe: false with this explanation: "Since GitHub pages overrides
-# this to true, we test this value to see if we are running locally." OK... I
-# wonder where he uses that?
+rss: true
 
-safe: false
+header_pages:
+  - home.md
+  - cv.md
+  - projects.md
+  - blog.md
+  - contact.md
