@@ -1,4 +1,4 @@
-# barnes1463.github.io
+# ian-barnes.github.io
 
 Minimal personal web site
 

@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![Mugshot](/images/FB_IMG_1608423518524~3.jpg)
+![Mugshot](/images/Ian-with-lollipop.jpg)
 
 Bio
 ---
