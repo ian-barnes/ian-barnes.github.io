@@ -27,6 +27,13 @@
       </a>
     </li>
   {%- endif -%}
+  {%- if site.strava_username -%}
+    <li class="social-media-list-item">
+      <a href="https://www.strava.com/athletes/{{ site.strava_username| cgi_escape | escape }}">
+        <i class="fab fa-strava"></i>
+      </a>
+    </li>
+  {%- endif -%}
   {%- if site.rss -%}
     <li class="social-media-list-item">
       <a href="{{ '/feed.xml' | relative_url }}">

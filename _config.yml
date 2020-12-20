@@ -40,6 +40,7 @@ timezone: Europe/Paris
 github_username: ian-barnes
 facebook_username: barnes1463
 linkedin_username: barnes1463
+strava_username: barnes1463
 
 # Enable SmartyPants (curly quotes, long dashes, ellipses etc)
 markdown: kramdown
