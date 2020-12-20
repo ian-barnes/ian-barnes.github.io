@@ -22,7 +22,7 @@ title: Blog
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt }} <a href="{{ post.url | relative_url }}">More...</a>
         {%- endif -%}
       </li>
       {%- endfor -%}

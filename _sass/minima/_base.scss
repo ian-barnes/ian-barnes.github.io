@@ -55,8 +55,10 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
-  vertical-align: middle;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 
@@ -86,6 +88,19 @@ li {
   > ol {
     margin-bottom: 0;
   }
+}
+
+dl {
+  margin-left: 0;
+}
+
+dt {
+  margin-top: $spacing-unit / 2;
+  margin-left: 0;
+}
+
+dd {
+  margin-left: $spacing-unit;
 }
 
 
@@ -217,11 +232,11 @@ pre {
     vertical-align: text-top;
 }
 
-.social-media-list {
-  li + li {
-    padding-top: 5px;
-  }
-}
+// .social-media-list {
+//   li + li {
+//     padding-top: 5px;
+//   }
+// }
 
 
 

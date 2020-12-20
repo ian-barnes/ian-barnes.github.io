@@ -9,4 +9,9 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   <script src="https://kit.fontawesome.com/842ddd62e4.js" crossorigin="anonymous"></script>
+  {%- if page.usemathjax -%}
+    <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+  {%- endif -%}
 </head>

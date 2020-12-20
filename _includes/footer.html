@@ -2,20 +2,18 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        {%- if site.author -%}
-          {{ site.author | escape }}
+      <p>
+        Copyright &copy; 
+        {% if site.author -%}
+          {{ site.author | escape }},
         {%- else -%}
-          {{ site.title | escape }}
-        {%- endif -%}
-      </div>
-
-      <div class="footer-col footer-col-2">
+          {{ site.title | escape }},
+        {%- endif %}
+        {{ site.time | date: "%Y" }}<br/>
+        Page last rebuilt {{ site.time | date: site.minima.date_format }}
+      <br/>
         {%- include social.html -%}
-      </div>
-    </div>
+      </p>
 
   </div>
 
