@@ -1,0 +1,37 @@
+<ul class="social-media-list">
+  {%- if site.email -%}
+    <li class="social-media-list-item">
+      <a href="mailto:{{ site.email | cgi_escape | escape }}">
+        <i class="fas fa-at"></i>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if site.facebook_username -%}
+    <li class="social-media-list-item">
+      <a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if site.github_username -%}
+    <li class="social-media-list-item">
+      <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if site.linkedin_username -%}
+    <li class="social-media-list-item">
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if site.rss -%}
+    <li class="social-media-list-item">
+      <a href="{{ '/feed.xml' | relative_url }}">
+        <i class="fas fa-rss"></i>
+      </a>
+    </li>
+  {%- endif -%}
+</ul>

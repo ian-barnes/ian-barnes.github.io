@@ -21,6 +21,4 @@ Completed
 - Software Construction course for ANU DCS
 - Mouse in a maze exercise for SIBT
 - Shape from shading
-- Visualisation of periodic surfaces
-
-![The surface cosX + cosY + cosZ = 0, which approximates the Schwarz P-surface]({{ site.baseurl }}/images/Schwarz-P-Surface.png)
+- [Visualisation of periodic surfaces](/2020/12/20/visualisation-of-periodic-surfaces)

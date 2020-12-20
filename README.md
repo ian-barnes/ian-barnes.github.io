@@ -2,4 +2,4 @@
 
 Minimal personal web site
 
-View it at <http://www.ianbarnes.me.uk/>
+View it at <https://www.ianbarnes.me.uk/>
