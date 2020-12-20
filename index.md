@@ -8,9 +8,9 @@ title: Home
 Bio
 ---
 
-I was born in 1963 in Sydney, Australia, where I went to Middle Harbour Public
-School, Neutral Bay Public School and North Sydney Boys High School. In 1969 my
-family spent a year in Tübingen and London, and in 1975-76 a year in New Haven.
+I was born in 1963 in Sydney, where I went to Middle Harbour Public School,
+Neutral Bay Public School and North Sydney Boys High School. In 1969 my family
+spent a year in Tübingen and London, and in 1975-76 a year in New Haven.
 
 I studied pure mathematics and computer science at the Australian National
 University. My doctorate was in applied mathematics, modelling the geometry of
