@@ -90,3 +90,10 @@ Computing
   JCA/JCE, OpenSSL, AWS KMS, Azure Key Vault, Google Cloud KMS, Bouncy Castle,
   jq, Dune, Gradle, OPAM
 - Languages: OCaml, PHP, Python, Bash, Java, HTML/CSS, SQL, JSON
+
+Nationality
+-----------
+
+- Australian
+- British
+- Irish (EU)
