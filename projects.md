@@ -8,7 +8,7 @@ description: Projects
 In progress
 -----------
 
-- Cryptopals in OCaml
+- [Cryptopals in OCaml](https://github.com/ian-barnes/cryptopals)
 
 Completed
 ---------
