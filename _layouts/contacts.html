@@ -1,15 +1,30 @@
-{% if site.data.social-media %}
-  <ul class="social-media-list">
+---
+layout: page
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% if site.data.social-media %}
+  <p>Links:</p>
+  <ul>
     {% assign sm = site.data.social-media %}
     {% for entry in sm %}
       {% assign key = entry | first %}
       {% if sm[key].id %}
-        <li class="social-media-list-item">
+        <li>
           <a href="{{ sm[key].href }}{{ sm[key].id }}">
             <i class="{{ sm[key].fa-icon }}"></i>
+            {{ sm[key].title }}
           </a>
         </li>  
       {% endif %}
     {% endfor %}
   </ul>
 {% endif %}
+
+</div>

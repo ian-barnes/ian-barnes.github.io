@@ -1,6 +1,5 @@
 title: Ian Barnes
 author: Ian Barnes
-email: ianbarnes1963@gmail.com
 description: Software developer
 
 url: "https://www.ianbarnes.me.uk"
@@ -19,11 +18,6 @@ rss: true
 show_excerpts: true
 
 timezone: Europe/Paris
-
-github_username: ian-barnes
-facebook_username: barnes1463
-linkedin_username: barnes1463
-strava_username: barnes1463
 
 # Navigation links in header
 header_pages:
