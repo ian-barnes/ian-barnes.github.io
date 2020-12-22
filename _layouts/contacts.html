@@ -15,7 +15,7 @@ layout: page
     {% assign sm = site.data.social-media %}
     {% for entry in sm %}
       {% assign key = entry | first %}
-      {% if sm[key].id %}
+      {% if key != "feed" %}
         <li>
           <a href="{{ sm[key].href }}{{ sm[key].id }}">
             <i class="{{ sm[key].fa-icon }}"></i>

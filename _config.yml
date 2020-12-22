@@ -1,12 +1,12 @@
 title: Ian Barnes
 author: Ian Barnes
-description: Software developer
+description: Personal web site of Ian Barnes
 
 url: "https://www.ianbarnes.me.uk"
 
-theme: minima
-minima:
-  date_format: "%Y-%m-%d %H:%M:%S %Z"
+timezone: Europe/Paris
+date_format: "%Y-%m-%d %H:%M:%S %Z"
+
 plugins:
   - jekyll-feed
 
@@ -17,9 +17,6 @@ kramdown:
 rss: true
 show_excerpts: true
 
-timezone: Europe/Paris
-
-# Navigation links in header
 header_pages:
   - index.md
   - cv.md
@@ -27,5 +24,4 @@ header_pages:
   - blog.md
   - contact.md
 
-# Don't copy the Makefile across
 exclude: [Makefile, README.md]

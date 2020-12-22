@@ -9,3 +9,7 @@ build:
 .PHONY: clean
 clean:
 	bundle exec jekyll clean
+
+.PHONY: update
+update:
+	bundle update

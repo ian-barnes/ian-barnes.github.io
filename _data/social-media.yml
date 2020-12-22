@@ -1,42 +1,41 @@
 email:
-  id: "ianbarnes1963@gmail.com"
-  href: "mailto:"
   title: "Email"
+  href: "mailto:"
+  id: "ianbarnes1963@gmail.com"
   fa-icon: "fas fa-envelope-square"
 
 facebook:
-  id: "barnes1463"
-  href: "https://www.facebook.com/"
   title: "Facebook"
+  href: "https://www.facebook.com/"
+  id: "barnes1463"
   fa-icon: "fab fa-facebook-square"
 
 github:
-  id: "ian-barnes"
-  href: "https://github.com/"
   title: "GitHub"
+  href: "https://github.com/"
+  id: "ian-barnes"
   fa-icon: "fab fa-github-square"
 
 linkedin:
-  id: "barnes1463"
-  href: "https://www.linkedin.com/in/"
   title: "LinkedIn"
+  href: "https://www.linkedin.com/in/"
+  id: "barnes1463"
   fa-icon: "fab fa-linkedin"
 
 strava:
-  id: "barnes1463"
-  href: "https://www.strava.com/athletes/"
   title: "Strava"
+  href: "https://www.strava.com/athletes/"
+  id: "barnes1463"
   fa-icon: "fab fa-strava"
 
 researchgate:
-  id: "Ian-Barnes"
+  title: "ResearchGate"
   href: "https://researchgate.net/profile/"
-  title: "ResarchGate"
+  id: "Ian-Barnes"
   fa-icon: fab fa-researchgate"
 
-
 feed:
-  id: "feed.xml"
-  href: "/"
   title: "RSS/Atom Feed"
+  href: "/feed.xml"
+  id: ""
   fa-icon: "fas fa-rss-square"

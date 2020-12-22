@@ -10,7 +10,7 @@
           {{ site.title | escape }},
         {%- endif %}
         {{ site.time | date: "%Y" }}<br/>
-        Page last rebuilt {{ site.time | date: site.minima.date_format }}
+        Page last rebuilt {{ site.time | date: site.date_format }}
       <br/>
         {%- include social.html -%}
       </p>
