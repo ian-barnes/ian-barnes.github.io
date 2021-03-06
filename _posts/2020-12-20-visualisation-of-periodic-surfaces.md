@@ -24,7 +24,7 @@ $$
 \cos X + \cos Y + \cos Z = 0.
 $$
 
-This is just the lowest order terms in the expansion of the potentail for the
+This is just the lowest order terms in the expansion of the potential for the
 CsCl crystal, which has two interlocking simple cubic lattices. The resulting
 surface closely resembles the Schwarz P surface, the best-known of the periodic
 minimal surfaces.
