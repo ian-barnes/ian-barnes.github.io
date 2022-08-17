@@ -20,6 +20,7 @@ show_excerpts: true
 header_pages:
   - index.md
   - cv.md
+  - photos.md
   - projects.md
   - blog.md
   - contact.md

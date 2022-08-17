@@ -2,3 +2,9 @@
 ---
 
 @import "theme";
+
+img + em {
+  text-align: center;
+  font-style: normal;
+  display: block;
+}
