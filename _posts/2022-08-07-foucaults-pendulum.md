@@ -5,15 +5,13 @@ date: 2022-08-07T17:24:40+02:00
 usemathjax: true
 ---
 
-![Foucault's pendulum: the bob](/images/pantheon-pendulum-1.jpg)
-
-I was at the Panthéon yesterday, and saw the original Foucault's pendulum. Well, sort of.
+I visited the Panthéon yesterday, and saw the original Foucault's pendulum. Well, sort of.
 It's the same location, but it got taken down when the Panthéon became a church again for
 a while, and was then restored, and then the wire broke and they had to replace it. And at
 some point the original 28kg bob was replaced with one almost twice as heavy. So it's a
 bit like the story about the axe that's had three new handles and two new heads...
 
-![Foucault's pendulum: the wire](/images/pantheon-pendulum-2.jpg)
+![Foucault's pendulum: the bob](/images/pantheon-pendulum-1.jpg)
 
 I'd recently seen [this fun YouTube video][youtube-lewin] of renowned physics lecturer
 Walter Lewin's farewell lecture, in which among other things he swings from a pendulum to
@@ -57,8 +55,10 @@ L \approx
 $$
 
 The information panel in the Panthéon states that the length is 67 metres, so we're within
-the error bars. Not too bad given that the formula is based on the small-angle
-approximation and doesn't take any sort of friction or drag into account
+the error bars! Not too bad given that the formula is based on the small-angle
+approximation and doesn't take any sort of friction or drag into account.
+
+![Foucault's pendulum: the wire](/images/pantheon-pendulum-2.jpg)
 
 [youtube-lewin]: https://youtu.be/4a0FbQdH3dY
 [wikipedia-gravity]: https://en.wikipedia.org/wiki/Gravity_of_Earth#Comparative_values_worldwide

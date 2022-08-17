@@ -21,7 +21,7 @@ fields to computer science and taught at the ANU for almost ten years.
 
 In 2003-4 I studied creative writing at the University of Canberra. In 2006-7 I
 trained as a psychotherapist and counsellor at the Jansen-Newman Institute in
-Sydney. I practiced counselling part-time in Canberra until the end of 2009.
+Sydney. I practised counselling part-time in Canberra until the end of 2009.
 
 In 2010 I moved to the north of Scotland and lived there for 7 years. During
 that time I taught computing at the University of the Highlands and Islands.
@@ -76,23 +76,25 @@ at ANU and an undergraduate student in mathematics and computer science at ANU.
 Interests
 ---------
 
-- bushwalking / walking / hiking / randonnée, whether in mountains, forests or
+- Bushwalking / walking / hiking / randonnée, whether in mountains, forests or
   along coastlines. I have done a few walks of a week or so: the Great Glen Way
   in Scotland, to Djebel Siroua in the Ante-Atlas mountains in Morocco, and
   around the Kaisergebirge in Austria.
 
-- music: choral singing, in particular of the baroque period, English and
+- Music: choral singing, in particular of the baroque period, English and
   French madrigals etc., also playing the piano: Bach, Beethoven, Schubert,
   Mozart...
 
-- Australian literature, particularly Helen Garner, Tim Winton, Richard
-  Flanagan...
+- Australian literature, particularly Helen Garner, Tim Winton...
 
-- non-formulaic science fiction: Ursula K. LeGuin, Doris Lessing, William
-  Gibson, Margaret Atwood, Cory Doctorow, Neal Stephenson
+- Non-formulaic science fiction: Ursula K. LeGuin, Doris Lessing, William
+  Gibson, Margaret Atwood, Cory Doctorow, Neal Stephenson...
 
-- politics, social change, science, the environment
+- Politics, social change, science, the environment
 
-- personal growth, trauma, sexual politics, men's work
+- Personal growth, trauma, sexual politics, men's work
 
-![At Lake Louise in the Canadian Rockies, June 2016](/images/2016-06-11-10-31-14-Lake-Louise.jpg)
+Personal
+--------
+
+- I have an adult daughter Ingrid, who lives in Canberra.
