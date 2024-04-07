@@ -3,14 +3,11 @@ layout: page
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
 
   {% if site.data.social-media %}
-  <p>Links:</p>
+  <h2>Links</h2>
   <ul>
     {% assign sm = site.data.social-media %}
     {% for entry in sm %}

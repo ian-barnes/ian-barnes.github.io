@@ -3,13 +3,8 @@
 
   <div class="wrapper">
       <p>
-        Copyright &copy; 
-        {% if site.author -%}
-          {{ site.author | escape }},
-        {%- else -%}
-          {{ site.title | escape }},
-        {%- endif %}
-        {{ site.time | date: "%Y" }}<br/>
+        Copyright &copy; {{ site.author | escape }},
+        2020–{{ site.time | date: "%Y" }}<br/>
         Page last rebuilt {{ site.time | date: site.date_format }}
       <br/>
         {%- include social.html -%}

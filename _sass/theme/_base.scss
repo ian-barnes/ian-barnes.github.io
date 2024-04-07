@@ -256,7 +256,8 @@ table {
     }
   }
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: ($spacing-unit / 4) ($spacing-unit / 4);
+    vertical-align: top;
   }
   th {
     background-color: lighten($grey-color-light, 3%);
@@ -265,5 +266,9 @@ table {
   }
   td {
     border: 1px solid $grey-color-light;
+  }
+  // Don't let the first column get too narrow
+  td:first-of-type {
+    width: 15%;
   }
 }
