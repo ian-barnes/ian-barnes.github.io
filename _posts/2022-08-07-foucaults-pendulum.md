@@ -27,7 +27,7 @@ gives $$\newcommand{\metre}{\text{m}} \newcommand{\second}{\text{s}} 10T\approx 
 for the period $$T$$ is
 
 $$
-T = 2 \pi \sqrt{\frac L g}.
+T = 2 \pi \sqrt{\frac L g}
 $$
 
 Inverting that gives
