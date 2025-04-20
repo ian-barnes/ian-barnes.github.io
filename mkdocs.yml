@@ -6,11 +6,9 @@ theme:
   custom_dir: overrides
   palette:
       scheme: default
-      # primary: "blue grey"
       primary: white
-      # accent: deep purple
-  # logo: assets/2022-01-01-14-42-47-Pico-de-Lopera.jpg
-  logo: assets/Gyroid.png
+      accent: blue
+  logo: assets/beanie.jpg
   favicon: assets/favicon.ico
   font:
     text: "IM Fell English"
