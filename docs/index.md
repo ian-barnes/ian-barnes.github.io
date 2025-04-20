@@ -4,7 +4,8 @@ date: 2025-04-19
 
 # Home
 
-This is my blog. Infrequent random writing, with or without pictures. Sometimes
-scientific / mathematical curiosities, sometimes “creative", sometimes might
-even be controversial, who knows? Read at your own risk. Of offence, boredom,
-who knows?
+Infrequent random writing, sometimes with pictures. A mix of scientific /
+mathematical curiosities, “creative" pieces, opinions. Might even be
+controversial sometimes, who knows? Read at your own risk... of offence,
+boredom, whatever. I'm not here to sell you anything or convince you of
+anything. I have no agenda.
