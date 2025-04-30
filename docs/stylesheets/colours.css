@@ -1,0 +1,7 @@
+:root > * {
+    --md-footer-fg-color: dark-grey;
+    --md-footer-fg-color--light:grey;
+    --md-footer-fg-color--lighter: light-grey;
+    --md-footer-bg-color: white;
+    --md-footer-bg-color--dark: light-grey;
+  }

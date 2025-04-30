@@ -13,10 +13,7 @@ theme:
   font:
     text: "IM Fell English"
   features:
-    - navigation.indexes
-    - navigation.path
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.top
     - navigation.footer
 markdown_extensions:
   - attr_list
@@ -41,6 +38,7 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/colours.css
 extra:
   social:
     - icon: material/email
