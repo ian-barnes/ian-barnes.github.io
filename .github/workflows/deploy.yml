@@ -25,7 +25,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs>=1.5.0
+      - run: pip install mkdocs-material
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-glightbox
-      - run: mkdocs gh-deploy --force --cname www.ianbarnes.me.uk
+      - run: mkdocs gh-deploy --force
