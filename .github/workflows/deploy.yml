@@ -28,7 +28,4 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-glightbox
-      - run: mkdocs build
-      - name: Copy CNAME to site directory
-        run: cp CNAME site/CNAME
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force --cname www.ianbarnes.me.uk
