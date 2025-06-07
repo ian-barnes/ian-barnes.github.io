@@ -18,12 +18,12 @@ Along the way I studied creative writing and then trained as a psychotherapist
 and counsellor. I practiced psychotherapy part-time for three years.
 
 In 2017 I left academia and have worked since then as a software engineer
-specialising in cryptography and most recently a product manager.
+specialising in cryptography.
 
 I live in the Findhorn eco-village / intentional community in the north of
 Scotland.
 
-My interests include bushwalking / hiking / randonnée, choral singing,  playing
-the piano, reading Australian literature and non-formulaic science fiction,
-visual art, philosophy & politics, psychotherapy, trauma & recovery, sexual
-politics, men's work...
+My interests include bushwalking / hiking / randonnée, choral singing, playing
+the piano, reading as widely as possible, experimenting with visual art,
+philosophy & politics, psychotherapy, trauma & recovery, sexual politics, men's
+work...
