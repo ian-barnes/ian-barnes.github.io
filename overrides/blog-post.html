@@ -85,24 +85,24 @@
                       <div class="md-nav__link">
                         Posted: 
                         <time
-                          datetime="{{ page.config.date.created }}"
+                          datetime="{{ page.meta.date }}"
                           class="md-ellipsis"
                         >
-                          {{- page.config.date.created | date -}}
+                          {{- page.meta.date | date -}}
                         </time>
                       </div>
                     </li>
 
                     <!-- Post date updated -->
-                    {% if page.config.date.updated %}
+                    {% if page.meta.updated %}
                       <li class="md-nav__item">
                         <div class="md-nav__link">
-                          Upated:
+                          Updated:
                           <time
-                            datetime="{{ page.config.date.updated }}"
+                            datetime="{{ page.meta.updated }}"
                             class="md-ellipsis"
                           >
-                            {{- page.config.date.updated | date -}}
+                            {{- page.meta.updated | date -}}
                           </time>
                         </div>
                       </li>

@@ -40,6 +40,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/colours.css
 extra:
+  show_updated: true
   social:
     - icon: material/email
       link: mailto:ianbarnes1963@gmail.com
@@ -51,6 +52,8 @@ extra:
       link: https://linkedin.com/in/barnes1463
     - icon: simple/github
       link: https://github.com/ian-barnes
+    - icon: fontawesome/solid/rss
+      link: /feed_rss_created.xml
 copyright: Copyright &copy; 2020–2025 Ian Barnes
 plugins:
   - blog:
