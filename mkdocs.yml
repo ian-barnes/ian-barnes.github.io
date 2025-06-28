@@ -36,6 +36,7 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/replace-br.js
 extra_css:
   - stylesheets/extra.css
   - stylesheets/colours.css
@@ -68,7 +69,7 @@ plugins:
       post_excerpt_max_categories: 5
       post_excerpt_separator: <!-- more -->
       post_readtime: false
-      post_date_format: "EEEE d MMMM yyyy"
+      post_date_format: "yyyy-MM-dd"
       # post_readtime_words_per_minute: 265
       # archive: true
       archive: false
@@ -99,18 +100,20 @@ plugins:
       enabled: true
       date_from_meta:
         as_creation: date
-      abstract_chars_count: 160
+      # abstract_chars_count: 160
       abstract_delimiter: <!-- more -->
-      comments_path: "null"
-      feed_ttl: 1440
-      image: "null"
+      # comments_path: "null"
+      # feed_ttl: 1440
+      image: "https://www.ianbarnes.me.uk/assets/beanie.jpg"
       json_feed_enabled: false
-      length: 20
-      match_path: .*
-      pretty_print: false
+      # length: 20
+      # match_path: .*
+      match_path: '^posts/.*\.md$'
+      pretty_print: true
       rss_feed_enabled: true
-      use_git: true
-      use_material_social_cards: true
+      # use_git: true
+      use_material_blog: false
+      use_material_social_cards: false
   - glightbox:
       touchNavigation: true
       loop: false

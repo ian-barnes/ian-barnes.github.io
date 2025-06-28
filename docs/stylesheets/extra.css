@@ -4,3 +4,49 @@
 html {
   font-size: 1.6rem;
 }
+
+.md-post--excerpt {
+  margin-bottom: 0.5rem;
+}
+
+.md-post__content h2 {
+  font-size: var(--md-typeset-heading-size, 1.0rem);
+  font-weight: var(--md-typeset-heading-weight, 500);
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
+
+.md-post__content p {
+  display: inline;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
+
+.md-post__content p::after {
+  content: "\00a0/ ";
+}
+
+.md-post__content p:last-of-type::after {
+  content: "";
+}
+
+.md-post__content p br {
+  display: none;
+}
+
+hr {
+  display: block;
+  border: none;
+  border-top: 1px solid #666;
+  margin: 0;
+}
+
+nav.md-post__action {
+  display: inline;
+  font-style: italic;
+}
+
+nav.md-post__action::before {
+  content: " ";
+  display: inline-block;
+}
