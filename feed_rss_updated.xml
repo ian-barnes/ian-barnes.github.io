@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Ian Barnes</title>
+    <description>Random thoughts</description>
+    <link>https://www.ianbarnes.me.uk/</link>
+    <atom:link href="https://www.ianbarnes.me.uk/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Sat, 28 Jun 2025 10:40:09 -0000</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:40:09 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.3</generator>
+
+    
+    
+    <image>
+      <url>https://www.ianbarnes.me.uk/assets/beanie.jpg</url>
+      <title>Ian Barnes</title>
+      <link>https://www.ianbarnes.me.uk/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Visualisation of periodic surfaces</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Visualisation of periodic surfaces&lt;/h1&gt;
+&lt;p&gt;Here are some images I generated many years ago while I was writing my [PhD
+thesis][thesis]. These surfaces are all the solutions of simple equations
+involving trig functions, but are close to and share symmetry and topology with
+periodic minimal surfaces, which are difficult to calculate and work with.&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2020/12/20/visualisation-of-periodic-surfaces/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2020/12/20/visualisation-of-periodic-surfaces/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Foucault&#39;s pendulum</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Foucault&#39;s pendulum&lt;/h1&gt;
+&lt;p&gt;I visited the Panthéon yesterday, and saw the original Foucault&#39;s pendulum.
+Well, sort of. It&#39;s the same location, but it got taken down when the Panthéon
+became a church again for a while, and was then restored, and then the wire
+broke and they had to replace it. And at some point the original 28kg bob was
+replaced with one almost twice as heavy. So it&#39;s a bit like the story about the
+axe that&#39;s had three new handles and two new heads...&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2022/08/07/foucaults-pendulum/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2022/08/07/foucaults-pendulum/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Another periodic surface image</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Another periodic surface image&lt;/h1&gt;
+&lt;p&gt;This is a follow-up to &lt;a href=&#34;2020-12-20-visualisation-of-periodic-surfaces.md&#34;&gt;Visualisation of periodic
+surfaces&lt;/a&gt;. A while ago I saw
+this 3D printed Gyroid model advertised online and couldn&#39;t resist it. Design by
+&lt;a href=&#34;https://www.bathsheba.com/&#34;&gt;Bathsheba Grossman&lt;/a&gt;, printed on demand by
+&lt;a href=&#34;https://www.shapeways.com/product/QNFAKNW9Z/gyroid&#34;&gt;Shapeways&lt;/a&gt;.&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2024/04/07/another-periodic-surface-image/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2024/04/07/another-periodic-surface-image/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Oystercatchers</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Oystercatchers&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;A sort of poem, with illustrations.&lt;/em&gt;&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2025/03/29/oystercatchers/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2025/03/29/oystercatchers/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Cloud&lt;/h1&gt;
+&lt;p&gt;Lying on my back&lt;br&gt;
+Stretching my glutes&lt;br&gt;
+Looking out the upside-down window&lt;br&gt;
+Leaves, wind, smears on the glass...&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2025/05/26/cloud/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2025/05/26/cloud/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Spiritual bypassing</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Spiritual bypassing&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;The only way out is through.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can&#39;t put the genie back in the bottle.&lt;/em&gt;&lt;/p&gt;</description>
+      <link>https://www.ianbarnes.me.uk/2025/06/07/spiritual-bypassing/</link>
+      <pubDate>Sat, 28 Jun 2025 10:39:42 +0000</pubDate>
+      <source url="https://www.ianbarnes.me.uk/feed_rss_updated.xml">Ian Barnes</source>
+      
+      <guid isPermaLink="true">https://www.ianbarnes.me.uk/2025/06/07/spiritual-bypassing/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
